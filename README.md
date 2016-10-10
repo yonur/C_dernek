@@ -4,4 +4,6 @@ Faydalı Kitaplar:
 
 PCI System Architecture (Mindshare, Inc.)
 ISA System Architecture 
-The Art of Computer Programming (Donald Knuth)     
+The Art of Computer Programming (Donald Knuth)   
+
+"OllyObg" -> İyi bir exe debugger.
