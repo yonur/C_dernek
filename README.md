@@ -2,12 +2,18 @@
 
 Faydalı Kitaplar:
 
-PCI System Architecture (Mindshare, Inc.)
-ISA System Architecture 
-The Art of Computer Programming (Donald Knuth)   
+* PCI System Architecture (Mindshare, Inc.)
 
-"OllyObg" -> İyi bir exe debugger.
+* ISA System Architecture 
 
-https://www.cs.uaf.edu/2009/fall/cs441/lecture/09_22_tkgate.html  -> CPU' nun yapısıno anlamak için bak.
+* The Art of Computer Programming (Donald Knuth)   
 
-Introduction to Computing Systems: From bits and gates to C and beyond -> CPU anamak için kitap.
+* Introduction to Computing Systems: From bits and gates to C and beyond -> CPU anamak için kitap.
+
+Faydalı Bilgiler:
+
+* "OllyObg" -> İyi bir exe debugger.
+
+* https://www.cs.uaf.edu/2009/fall/cs441/lecture/09_22_tkgate.html  -> CPU' nun yapısıno anlamak için bak.
+
+* Minix işletim sistemini araştır.
