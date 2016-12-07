@@ -10,6 +10,8 @@ Faydalı Kitaplar:
 
 * Introduction to Computing Systems: From bits and gates to C and beyond -> CPU anamak için kitap.
 
+* Virtual Machines: Versatile Platforms for Systems and Processes (The Morgan Kaufmann Series in Computer Architecture and Design)
+
 Faydalı Bilgiler:
 
 * "OllyObg" -> İyi bir exe debugger.
