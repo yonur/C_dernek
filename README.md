@@ -19,3 +19,5 @@ Faydalı Bilgiler:
 * https://www.cs.uaf.edu/2009/fall/cs441/lecture/09_22_tkgate.html  -> CPU' nun yapısıno anlamak için bak.
 
 * Minix işletim sistemini araştır.
+
+* http://mobaxterm.mobatek.net/ güzel bir uzak bağkantı aracı. Rasperry pi alırsan bağlanmak için kullanılabilir.
