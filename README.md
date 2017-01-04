@@ -21,3 +21,7 @@ Faydalı Bilgiler:
 * Minix işletim sistemini araştır.
 
 * http://mobaxterm.mobatek.net/ güzel bir uzak bağkantı aracı. Rasperry pi alırsan bağlanmak için kullanılabilir.
+
+* Visual Studio' da GNU tool chain yüklersen cross compiler oluyor ve arm koduda derleyebiliyoruz. Fakat bu derlediğimiz binary dosyayı intel bilgisayarda çalıştıramayız. Sadece kodu inceleyebiliriz. GNU tool chain' i yükleyebileceğim adres:
+  http://visualgdb.com/toolchains/
+ 
