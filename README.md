@@ -25,3 +25,4 @@ Faydalı Bilgiler:
 * Visual Studio' da GNU tool chain yüklersen cross compiler oluyor ve arm koduda derleyebiliyoruz. Fakat bu derlediğimiz binary dosyayı intel bilgisayarda çalıştıramayız. Sadece kodu inceleyebiliriz. GNU tool chain' i yükleyebileceğim adres:
   http://visualgdb.com/toolchains/
  
+* İyi bir ARM emulator' ü: https://salmanarif.bitbucket.io/visual/
