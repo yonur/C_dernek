@@ -26,3 +26,7 @@ Faydalı Bilgiler:
   http://visualgdb.com/toolchains/
  
 * İyi bir ARM emulator' ü: https://salmanarif.bitbucket.io/visual/
+
+Yararlı programlar:
+OllyDbg - Elinde kaynak kod yoksa tersine mühendislikle kaynak kodu çözmek için kullanıklan assembly seviyesinde debugger.
+Armbian - Arm geliştirme boardları için armın ubuntu tabanlı işletim sistemi.
