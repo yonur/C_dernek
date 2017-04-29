@@ -29,4 +29,7 @@ Faydalı Bilgiler:
 
 Yararlı programlar:
 OllyDbg - Elinde kaynak kod yoksa tersine mühendislikle kaynak kodu çözmek için kullanıklan assembly seviyesinde debugger.
-Armbian - Arm geliştirme boardları için armın ubuntu tabanlı işletim sistemi.
+Armbian - Arm geliştirme boardları için armın ubuntu tabanlı işletim sistemi.sistem 
+
+bit.do/SysProg2-2016
+bit.do/SysProg-2015
